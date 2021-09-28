@@ -1,7 +1,10 @@
 {
-  "name": "lavamusic",
+  "name": "MUSICBOT",
   "version": "1.0.2",
-  "description": "lavalink music bot base in erelajs",
+  "description": "NAMEBOT:MUSICBOT
+PRIFIXBOT:!help
+SUPPORT SERVER https://discord.gg/KTTmGRsszq
+INVITEBOT : ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
