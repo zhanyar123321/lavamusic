@@ -1,8 +1,8 @@
 {
-    "token": "", 
+    "token": "ODkyNDcwNDk4MTEyNDQ2NTM1.YVNX7A.kY3O7WDYjor5uejroqVNwMfiVhc", 
     "prefix": "!",
     "ksoftapi": "",   
-    "ownerID": "491577179495333903",
+    "ownerID": "881116033916735570",
     "SpotifyID": "",
     "SpotifySecret": "",
     "mongourl": "",
@@ -14,7 +14,7 @@
      
       "host": "disbotlistlavalink.ml",
       "port": 443,
-      "password": "LAVA",
+      "password": "zhanyar12",
       "identifier": "DisBotlist Lavalink",
       "retryDelay": 3000,
       "secure": true
