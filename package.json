@@ -1,7 +1,8 @@
 {
-  "name": "lavamusic",
+  "name": "BOT MUSIC",
   "version": "1.0.2",
-  "description": "lavalink music bot base in erelajs",
+  "description": "INVITEBOT :https://discord.com/api/oauth2/authorize?client_id=892470498112446535&permissions=8&scope=bot
+                  SERVERBOT :https://discord.gg/KTTmGRsszq ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -14,8 +15,8 @@
     "url": "git+https://github.com/brblacky/lavamusic.git"
   },
   "keywords": [
-    "lavalink",
-    "erela",
+    "Zhanyar",
+    "Musicbot",
     "music",
     "bot",
     "discord-music",
